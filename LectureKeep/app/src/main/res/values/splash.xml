@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.LectureKeep.MySplash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#FF202020</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/baseline_note_alt_24</item>
+        <item name="postSplashScreenTheme">@style/Theme.LectureKeep.MySplash</item>
+    </style>
+</resources>
